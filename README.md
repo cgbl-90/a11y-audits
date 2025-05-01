@@ -1,12 +1,11 @@
-# React + Vite
+# Accessibility Testing for Government Websites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project focuses on automated accessibility testing for government websites to ensure they meet compliance and usability standards. We use Chromatic’s accessibility testing to catch common accessibility issues early and consistently during the UI development process.
 
-Currently, two official plugins are available:
+## 🔧 Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React, Vite, Playwright & Chromatic
 
-## Expanding the ESLint configuration
+## Accessibility Testing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Chromatic accessibility testing ...
